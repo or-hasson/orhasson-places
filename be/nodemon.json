@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_MONGO_USER":"hassonor777",
+    "DB_MONGO_PASSWORD":"hdzyfjt777.Aa777",
+    "DB_MONGO_DATABASE": "mongodb",
+    "API_KEY_GOOGLE": "AIzaSyAlxKwkcMn1zF6MoxZ-LNoboGDgGM_mV5M",
+    "JWT_KEY": "you_will_never_be_alone"
+  }
+}

@@ -3,7 +3,7 @@
 .header{
     height: 85vh;
     /* fallback */
-    background-image: linear-gradient(to bottom, rgba(126,213,111,0.8) 0%,rgba(40,180,131,0.8) 100%), url("./img/hero.jpg");
+    background-image: linear-gradient(to bottom, rgba(126,213,111,0.8) 0%,rgba(40,180,131,0.8) 100%), url("img/hero.jpg");
     background-size: cover;
     background-position: top;
     position: relative;
